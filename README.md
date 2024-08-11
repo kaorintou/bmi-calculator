@@ -34,4 +34,4 @@ Este é um programa simples em Python que calcula o IMC (Índice de Massa Corpor
 Execute o script `bmi_calculator.py` para usar a calculadora de IMC:
 
 ```bash
-python bmi_calculator.py
+python3 bmi_calculator.py
