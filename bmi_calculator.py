@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 def calculate_bmi(weight, height):
     """Calcula o IMC (Índice de Massa Corporal) dado o peso em kg e altura em metros."""
     bmi = weight / (height ** 2)
